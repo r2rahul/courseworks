@@ -1,4 +1,4 @@
 courseworks
 ===========
 
-This repository contains programming assignments or codes written to complete various Massive Open Online Courses
+This repository contains `sample` codes of programming assignments from Massive Open Online Courses, which I completed to supplement my skills.   
